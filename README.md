@@ -83,7 +83,7 @@ orion-ai/
 ├─ main.py            # Main application script
 ├─ musicLibrary.py    # Optional music library
 ├─ README.pdf         # This document
-├─ client.py          # For AI integration
+├─ requirements.txt
 
 ```
 
